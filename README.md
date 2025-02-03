@@ -1,3 +1,8 @@
+## Autor
+- Nombre: Guillermo Jimenez Labora Garcia
+- Email: a23311114@uthermosillo.edu.mx
+- GitHub: [@lovegothgirls4ever](https://github.com/lovegothgirls4ever)
+
 # .
 
 This template should help get you started developing with Vue 3 in Vite.
