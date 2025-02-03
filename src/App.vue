@@ -1,5 +1,5 @@
 <script setup>
-import Contador from './components/Contador.vue'
+import Contador from './modules/Contador/components/Contador.vue'
 </script>
 
 <template>
